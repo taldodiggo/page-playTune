@@ -1,0 +1,21 @@
+.conteudo-centralizado {
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .conteudo-centralizado img {
+    width: 80%;
+    max-width: 800px;
+    margin-bottom: 20px;
+  }
+  
+  .conteudo-centralizado h2 {
+    font-size: 2.5em;
+    color: #00cc66;
+  }
+  
+  .conteudo-centralizado p {
+    font-size: 1.2em;
+    color: #555;
+  }
+  

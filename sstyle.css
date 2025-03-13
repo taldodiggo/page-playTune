@@ -1,0 +1,48 @@
+.servicos {
+    padding: 60px 20px;
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  .servicos h2 {
+    font-size: 2.5em;
+    color: #00cc66; /* Verde no tom que você curte */
+    margin-bottom: 40px;
+  }
+  
+  .cards-servicos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  
+  .card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    width: 300px;
+    padding: 20px;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .card img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+  }
+  
+  .card h3 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .card p {
+    color: #555;
+    font-size: 0.95em;
+  }
+  
